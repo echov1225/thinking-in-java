@@ -12,5 +12,12 @@
 
     <artifactId>holding-object</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>jv.in.thinking</groupId>
+            <artifactId>commons</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 
 </project>

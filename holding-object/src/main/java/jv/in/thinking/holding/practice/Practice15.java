@@ -2,8 +2,6 @@ package jv.in.thinking.holding.practice;
 
 import jv.in.thinking.commons.utils.Stack;
 
-import java.sql.SQLOutput;
-
 /***
  * 栈在编程语言中经常会用来对表达式求值。请使用{@link jv.in.thinking.commons.utils.Stack}
  * 对下面的表达式求值，其中"+"表示"将后面的字母压进栈"，而"-"表示"弹出栈顶字母并打印它":

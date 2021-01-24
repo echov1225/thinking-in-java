@@ -12,6 +12,7 @@
     <modules>
         <module>holding-object</module>
         <module>commons</module>
+        <module>typeinfo</module>
     </modules>
 
 </project>

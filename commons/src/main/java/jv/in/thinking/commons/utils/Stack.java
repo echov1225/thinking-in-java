@@ -3,7 +3,7 @@ package jv.in.thinking.commons.utils;
 import java.util.LinkedList;
 
 public class Stack<T> {
-    private LinkedList<T> storage = new LinkedList<T>();
+    private final LinkedList<T> storage = new LinkedList<T>();
 
     public void push(T v) {
         storage.addFirst(v);
